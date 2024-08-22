@@ -66,7 +66,7 @@ export const socials = [
        link: 'https://rxcolombia.com/'
     },
     {
-       title: 'Autopartes',
+       title: 'Auto parts',
        description:
          "WordPress website for an auto parts store, focused on creating a seamless shopping experience for customers. The project involved designing a visually appealing and user-friendly interface that showcased the store’s wide range of products. I integrated advanced search and filtering options to help customers easily find specific parts, and implemented secure payment gateways to ensure a smooth checkout process. Additionally, I optimized the site for SEO to increase visibility and drive organic traffic, resulting in higher sales and customer satisfaction.",
        image: 'francia',
