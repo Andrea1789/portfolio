@@ -63,6 +63,7 @@ export const socials = [
           "WordPress website for a bridal dress designer, featuring original designs, alteration and restoration services. The site includes galleries showcasing brides' photos, a detailed services page, and a seamless booking system for appointments. With a focus on elegance and user-friendliness, the website provides an engaging experience for potential clients.",
        image: 'adrienn_braun',
        color: '#146866',
+       link: 'https://adriennbraun.com/'
     },
     {
        title: 'Johana Jiménez',
@@ -70,6 +71,7 @@ export const socials = [
           'A sleek and modern WordPress website designed for a fashion designer, featuring an integrated online store and gallery to showcase collections. Includes a search bar for filtering results, making navigation intuitive, and social media links to connect with the brand across platforms.',
        image: 'johana_jimenez',
        color: '#17193f',
+       link: 'https://johanajimenez.com.co/'
     },
     {
        title: 'Casa O',
@@ -77,6 +79,7 @@ export const socials = [
           'A WordPress website for a luxury house rental company in Cartagena, featuring an integrated booking system, detailed property descriptions, a stunning image gallery, location information, and a seamless contact form for effortless inquiries',
        image: 'casa_o',
        color: '#bbbbbb',
+       link: 'https://casao.com.co/'
     },
     {
        title: 'Xeletiene',
@@ -84,6 +87,7 @@ export const socials = [
           'A fully responsive WordPress e-commerce site featuring an integrated shopping cart, advanced product filters, and a dynamic product gallery. The site includes multiple galleries showcasing products, seamless WhatsApp contact functionality, and links to social media for enhanced customer engagement. Designed to provide a smooth and user-friendly shopping experience.',
        image: 'xeletiene',
        color: '#49d53c',
+       link: 'https://xeletiene.com/'
     },
     {
        title: 'RX Store',
